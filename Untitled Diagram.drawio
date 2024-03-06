@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T08:51:37.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="EtYaC9Jv5zGzAGDHmWWG" version="24.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-06T08:56:21.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UFOSs2Jz-PoVNrGSeguI" version="24.0.1" type="github" pages="5">
   <diagram name="Page-1" id="tmQ9e40nxh1JWdAEroh6">
     <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uyBDZ7fxmoUeEEQm8P8h-5" value="Tarieven" style="swimlane;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="40" y="60" width="770" height="760" as="geometry" />
+          <mxGeometry x="40" y="60" width="770" height="710" as="geometry" />
         </mxCell>
         <mxCell id="vQExG8nEpNExe06jKn9C-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="uyBDZ7fxmoUeEEQm8P8h-5" vertex="1">
           <mxGeometry y="390" width="770" height="320" as="geometry" />
